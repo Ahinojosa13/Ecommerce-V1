@@ -1,0 +1,91 @@
+[
+    {
+      "name": "VOLTRX Premium Electric Protein Shaker Bottle",
+      "image": "/images/shakercup.webp",
+      "price": "$25.98",
+      "description": "The VOLTRX VortexBoost mixing bottle is a high-quality shaker bottle made of Tritan that is safe and shatter-resistant with no BPA. It has a unique and eye-catching design, a 24oz capacity, and a powerful motor that ensures no remaining chunks.",
+      "buttonText": "Add to Cart"
+    },
+    
+    {
+      "name": "Beats Powerbeats Pro",
+      "image": "/images/beats.webp",
+      "price": "$189.99",
+      "description": "Black Wireless Earbuds with Apple H1 Headphone Chip, Class 1 Bluetooth Headphones, 9 Hours of Listening Time, Sweat Resistant, Built-in Microphone",
+      "buttonText": "Add to Cart"
+    },
+
+    {
+        "name": "CANWAY Foldable Sports Gym Bag",
+        "image": "/images/bag.webp",
+        "price": "$30.99",
+        "description": "Travel Duffel Bag with Shoes Compartment, Carry onBags for Airplanes, Weekender Overnight Workout Bag with Waterproof, Black",
+        "buttonText": "Add to Cart"
+      },
+      {
+        "name": "YQXCC 4 Pack Cooling Towel",
+        "image": "/images/towel.webp",
+        "price": "$14.99",
+        "description": "Cool Cold Towel for Neck, Microfiber Ice Towel, Soft Breathable Chilly Towel for Yoga, Golf, Gym, Camping, Running, Workout & More Activities",
+        "buttonText": "Add to Cart"
+      },
+      {
+        "name": "NELEUS Men's 3 Pack Dry Fit",
+        "image": "/images/ytop.webp",
+        "price": "$23.95",
+        "description": "The Y-back design is ideal for bodybuilders, gym enthusiasts, and men with muscular athletic physiques. The fitted design allows for a comfortable fit and natural range of motion, while also providing room to breathe and stay cool.",
+        "buttonText": "Add to Cart"
+      },
+      {
+        "name": "Anime Shorts",
+        "image": "/images/anime.webp",
+        "price": "$34.99",
+        "description": "These anime-inspired shorts are made of 100% polyester with moisture-wicking technology that absorbs moisture and removes odor. They are versatile and suitable for gym, marathon, or lounge days.",
+        "buttonText": "Add to Cart"
+      },
+      {
+        "name": "Product 1",
+        "image": "/images",
+        "price": "$50",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+        "buttonText": "Add to Cart"
+      },
+      
+      {
+        "name": "Product 2",
+        "image": "/images",
+        "price": "$75",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+        "buttonText": "Add to Cart"
+      },
+  
+      {
+          "name": "Product 1",
+          "image": "/images",
+          "price": "$50",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+          "buttonText": "Add to Cart"
+        },
+        {
+          "name": "Product 2",
+          "image": "/images",
+          "price": "$75",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+          "buttonText": "Add to Cart"
+        },
+        {
+          "name": "Product 1",
+          "image": "/images",
+          "price": "$50",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+          "buttonText": "Add to Cart"
+        },
+        {
+          "name": "Product 2",
+          "image": "/images",
+          "price": "$75",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consequat velit eu velit tincidunt, at iaculis urna hendrerit.",
+          "buttonText": "Add to Cart"
+        }
+  ]
+  
