@@ -146,7 +146,6 @@ nav {
 }
 .previous .next{
   position: absolute;
-  top:50%;
   transform: translateY(-50%);
   font-size: 2.5rem;
   font-weight: bold;
