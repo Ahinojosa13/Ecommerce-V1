@@ -2,6 +2,12 @@
 
                                       /* DRY Methods */
 /* Nav CSS*/
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+
+  }
 nav {
     display: flex;
     justify-content: space-between;
@@ -75,9 +81,10 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: 75rem;
+    max-width: 100%;
     margin: 0 auto;
     padding: 0 2rem;
+    margin-top: 1rem;
   }
   
   
@@ -169,6 +176,14 @@ nav {
   top: 26.125rem;
   font-size: 3rem;
 }
+.team{
+    display: flex;
+    justify-content:space-around;
+}
+.team img{
+    max-width: 100%;
+  height: 40vh;
+}
                                                          /* Product Page  */
 /* TABLE OF CONTENTS  (TOC) */
   main {
@@ -216,37 +231,37 @@ nav {
   font-weight: bolder;
 }
 
-.product-card{
+.products{
     background-color: #444;
     color: #fff;
     border-radius: .313rem;
     padding: 1.25rem;
     font-size: 150%;
 }
-.product-card h1{
+.products h1{
     font-weight: bold;
     font-size: 1.125rem;;
     margin-top: 0.625rem;
 }
   
-.product-card img{
+.products img{
     width: 12.5rem;
     height: 12.5rem;
     margin-bottom: 0.625rem;
 }
   
-.product-card h3{
+.products h3{
     font-weight: bold;
     font-size: 1rem;
-    color: #ff6600;
+    color: #320AFA;
     margin-bottom: 0.625rem;
 }
-.product-card p{
+.products p{
     font-weight: bold;
     font-size: 1.125rem;
     margin-bottom: .625rem;
 }
-.product-card button{
+.products button{
     background-color: #ff6600;
     color: #ffffff;
     border: none;
@@ -280,3 +295,70 @@ nav {
     grid-template-columns:repeat(4, 21.875rem);
   } 
   }
+
+                                                                /* Contact Us Page CSS */
+ /* Partners Content */
+  .trainers {
+    border: 2px solid #320AFA;
+    background-color: #D4D4D4;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  .trainers::after {                    /* Clear floats after containers */
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .trainers img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    width: 90px;
+  }
+  .trainers span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  @media (max-width: 500px) {
+    .trainers {
+      text-align: center;
+    }
+    .trainers img {
+      margin: auto;
+      float: none;
+      display: block;
+    }
+  }
+  /* Contact Form */
+  * {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #320AFA;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #D4D4D4;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #D4D4D4;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #D4D4D4;
+  padding: 20px;
+}
