@@ -1,0 +1,32 @@
+{
+    "accesories": [
+    {
+      "name": "Body Reapers Weight Lifting Belt",
+      "image": "/images/belt.webp",
+      "price": "$59.99",
+      "description": "Weight Lifting Belt for Men & Women, Heavy Duty Lever Belt Weightlifting Belt Made of Calfskin Leather 10mm Thick, 4 Inch Wide - Powerlifting Belt for Back Support, Gym & Fitness Training",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "Nike Blazer",
+      "image": "/images/nike.webp",
+      "price": "$112",
+      "description": "VINTAGE STYLE. The Nike Blazer Mid 77 Vintage combines old-school basketball style with the vintage finish of the midsole, while innovative details update the look. Reinforced structure that blends the midsole to the sole for an essential look. Foam exposed on the tongue for a vintage style.",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "Gymreapers Knee Sleeves",
+      "image": "/images/knee.webp",
+      "price": "$59.99",
+      "description": "Knee Sleeve & Compression Brace for Squats, Fitness, Weightlifting, and Powerlifting. Gymreapers 7MM Sleeve Pair For Men & Women",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "Gymreapers Wrist Wraps",
+      "image": "/images/straps.webp",
+      "price": "$19.99",
+      "description": "18 inches Professional Quality Wrist Support with Heavy Duty Thumb Loop. Best Wrap for Powerlifting Competition, Strength Training, Bodybuilding",
+      "buttonText": "Add to Cart"
+    }
+ ]
+} 

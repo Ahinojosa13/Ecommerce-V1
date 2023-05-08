@@ -1,0 +1,32 @@
+{
+    "juice": [
+    {
+      "name": "Bloom Nutrition Green Superfood Stick Packs",
+      "image": "/images/greens.webp",
+      "price": "$34.99",
+      "description": "We have curated an amazing nutritious blend of vitamins, antioxidants, and adaptogenic herbs that aid digestion and support digestive health. Our blend of digestive enzymes helps break down the food you eat, while probiotics help the body absorb the nutrients from those foods.",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "ALPHA LION Superhuman Pre Workout Powder",
+      "image": "/images/pre.webp",
+      "price": "$47",
+      "description": "GREAT TASTING CAFFEINE MATRIX: Our pre workout is powered by our all new SXT Sustained Energy and Focus System. This tri-source caffeine matrix will provide you with more sustained energy and focus vs the standard forms of caffeine used in other pre workout supplements.",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "Black Magic Original Horchata",
+      "image": "/images/pro.webp",
+      "price": "$47.54",
+      "description": "Black Magic Supplements' Handcrafted Casein Protein is a protein powder that contains a blend of premium protein sources such as whey, egg, and casein, with an amino acid profile that may help build muscle and aid in recovery. It is designed to support muscle protein synthesis and help with recovery after workouts. Each scoop provides 24g of high-quality protein, and it has a delicious original horchata flavor.",
+      "buttonText": "Add to Cart"
+    },
+    {
+      "name": "ALPHA LION Gains Candy",
+      "image": "/images/gains.webp",
+      "price": "$41.99",
+      "description": "Gains Candy's diet capsules contain only one ingredient, MitoBurn, which is a form of L-BAIBA, an amino acid found in both plants and animals. It can help convert bad white fat into good fat, leading to increased energy expenditure and a healthier metabolism. Gains Candy can help you reach your body goals by amplifying the effects of your workout, reducing appetite, improving carbohydrate tolerance, and insulin sensitivity.",
+      "buttonText": "Add to Cart"
+    }
+   ]
+  }

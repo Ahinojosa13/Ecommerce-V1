@@ -1,0 +1,36 @@
+{
+  "accesories": [
+  {
+    "name": "VOLTRX Premium Electric Protein Shaker Bottle",
+    "image": "/images/shakercup.webp",
+    "alt": "Protein Shaker Bottle",
+    "price": "$25.98",
+    "description": "The VOLTRX VortexBoost mixing bottle is a high-quality shaker bottle made of Tritan that is safe and shatter-resistant with no BPA. It has a unique and eye-catching design, a 24oz capacity, and a powerful motor that ensures no remaining chunks.",
+    "buttonText": "Add to Cart"
+  },
+  {
+    "name": "Beats Powerbeats Pro",
+    "image": "/images/beats.webp",
+    "alt": "Beats Powerbeats Pro",
+    "price": "$189.99",
+    "description": "Black Wireless Earbuds with Apple H1 Headphone Chip, Class 1 Bluetooth Headphones, 9 Hours of Listening Time, Sweat Resistant, Built-in Microphone",
+    "buttonText": "Add to Cart"
+  },
+  {
+    "name": "CANWAY Foldable Sports Gym Bag",
+    "image": "/images/bag.webp",
+    "alt": "Sports Gym Bag",
+    "price": "$30.99",
+    "description": "Travel Duffel Bag with Shoes Compartment, Carry onBags for Airplanes, Weekender Overnight Workout Bag with Waterproof, Black",
+    "buttonText": "Add to Cart"
+  },
+  {
+    "name": "YQXCC 4 Pack Cooling Towel",
+    "image": "/images/towel.webp",
+    "alt": "Cooling Towel",
+    "price": "$14.99",
+    "description": "Cool Cold Towel for Neck, Microfiber Ice Towel, Soft Breathable Chilly Towel for Yoga, Golf, Gym, Camping, Running, Workout & More Activities",
+    "buttonText": "Add to Cart"
+  }
+ ]
+}
