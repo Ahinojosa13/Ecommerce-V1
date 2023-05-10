@@ -74,13 +74,13 @@ nav {
     font-size: 1.2rem;
     padding: 2rem 0;
     width: fit-content;
+
   }
   
   
   .footer-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     max-width: 100%;
     margin: 0 auto;
     padding: 0 2rem;
@@ -88,10 +88,10 @@ nav {
   }
   
   
-  .footer-section {
+   .footer-section {
     margin-bottom: 2rem;
-    width: 30%;
-  }
+    width: 45%;
+  } 
   
   
   .footer-section h3 {
@@ -99,10 +99,10 @@ nav {
     margin-bottom: 1rem;
   }
   
-  
+   
   .footer-section ul {
     list-style: none;
-    padding: 0;
+    /* padding: 0; */
     margin: 0;
   }
   
@@ -126,7 +126,7 @@ nav {
     .footer-section {
       width: 100%;
     }
-  }
+  } 
   .fa {
     font-size: 30px;
     width: 30px;
@@ -253,37 +253,39 @@ nav {
   font-weight: bolder;
 }
 
-.products{
+.toc-card {
     background-color: #444;
     color: #fff;
     border-radius: .313rem;
     padding: 1.25rem;
     font-size: 150%;
+    width: 40%;
+
 }
-.products h1{
+.toc-card h1{
     font-weight: bold;
     font-size: 1.125rem;;
     margin-top: 0.625rem;
 }
   
-.products img{
+.toc-card img{
     width: 12.5rem;
     height: 12.5rem;
     margin-bottom: 0.625rem;
 }
   
-.products h3{
+.toc-card h3{
     font-weight: bold;
     font-size: 1rem;
     color: #320AFA;
     margin-bottom: 0.625rem;
 }
-.products p{
+.toc-card p{
     font-weight: bold;
     font-size: 1.125rem;
     margin-bottom: .625rem;
 }
-.products button{
+.toc-card button{
     background-color: #D4D4D4;
     color: #ffffff;
     border: none;
@@ -314,7 +316,7 @@ nav {
     display: grid;
     grid-gap: 0.625rem;
     color: #444;
-    grid-template-columns:repeat(4, 21.875rem);
+    grid-template-columns:repeat(4,1fr);
   } 
   }
 
