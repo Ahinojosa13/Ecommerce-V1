@@ -1,32 +1,18 @@
-const slide = document.querySelectorAll(".pics img");
-const slideCount = slide.length;
-let currentSlide = 0; // initialize to the index of the initial slide to show
+let i = 0;
+var pictures = [];
+var time = 2000;
+pictures[0] ="/images/pro.webp" //juice
+pictures[1] ="/Images/anime.webp" //clothes
+pictures[2] ="/images/nike.webp" //gear
+pictures[3] ="/images/beats.webp" //accessories
 
-function showSlide(index) {
-    if (index < 0) {
-        index = slideCount - 1;
-    } 
-    if (index >= slideCount) {
-        index = 0;
+function autoplay(){
+    document.slide.src = pictures[i];
+    if(i < pictures.length - 1){
+        i++;
+    }else{
+        i = 0; //Starts over
     }
-    for (let i = 0; i < slideCount; i++) {
-        slide[i].style.display = "none"; // replace "slides" with "slide"
-    }
-    slide[index].style.display = "block";
-    currentSlide = index;
-} 
-
-function nextSlide() {
-    showSlide(currentSlide + 1);
+    setTimeout("autoplay()", time);
 }
-
-function prevSlide() {
-    showSlide(currentSlide - 1);
-}
-
-// Added event listeners to the next and previous buttons
-document.querySelector(".next").addEventListener("click", nextSlide);
-document.querySelector(".previous").addEventListener("click", prevSlide);
-
-// Call showSlide() with the initial slide index
-showSlide(currentSlide);
+window.onload=autoplay;

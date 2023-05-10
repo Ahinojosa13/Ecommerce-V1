@@ -16,7 +16,7 @@ http.onload = function(){
             </div>
             `;
         }
-        document.querySelector(".product").innerHTML = output;
+        document.querySelector(".accesories-json").innerHTML = output;
     }
 }
 
