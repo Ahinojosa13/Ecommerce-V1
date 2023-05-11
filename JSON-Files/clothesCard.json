@@ -2,28 +2,28 @@
     "clothesCard": [
 {
     "name": "NELEUS Men's 3 Pack Dry Fit",
-    "image": "/images/ytop.webp",
+    "image": "/Images/ytop.webp",
     "price": "$23.95",
     "description": "The Y-back design is ideal for bodybuilders, gym enthusiasts, and men with muscular athletic physiques. The fitted design allows for a comfortable fit and natural range of motion, while also providing room to breathe and stay cool.",
     "buttonText": "Add to Cart"
   },
   {
     "name": "Anime Shorts",
-    "image": "/images/anime.webp",
+    "image": "/Images/anime.webp",
     "price": "$34.99",
     "description": "These anime-inspired shorts are made of 100% polyester with moisture-wicking technology that absorbs moisture and removes odor. They are versatile and suitable for gym, marathon, or lounge days.",
     "buttonText": "Add to Cart"
   },
   {
     "name": "DEATH CAN WAIT OVERSIZED TEE",
-    "image": "/images/wolves.webp",
+    "image": "/Images/wolves.webp",
     "price": "$40",
     "description": "The Premium Vintage Tee is an oversized, incredibly soft t-shirt made of 100% cotton. It's designed for everyday wear and has been pre-shrunk, softened, and dyed to give it an authentic vintage finish. The tee comes with a screen print and is part of a label called Premium Vintage that reinvents past garments for the present, creating timeless pieces.",
     "buttonText": "Add to Cart"
   },
   {
     "name": "Ultra Performance 3 Pack",
-    "image": "/images/sweats.webp",
+    "image": "/Images/sweats.webp",
     "price": "$36.99",
     "description": "These lightweight mens sweatpants with pockets are perfect for lounging around the house.",
     "buttonText": "Add to Cart"

@@ -1,10 +1,10 @@
 let i = 0; 
 var pictures = [];
 var time = 2000;
-pictures[0] ="/images/pro.webp" //juice
+pictures[0] ="/Images/pro.webp" //juice
 pictures[1] ="/Images/anime.webp" //clothes
-pictures[2] ="/images/nike.webp" //gear
-pictures[3] ="/images/beats.webp" //accessories
+pictures[2] ="/Images/nike.webp" //gear
+pictures[3] ="/Images/beats.webp" //accessories
 
 function autoplay(){
     document.slide.src = pictures[i];
