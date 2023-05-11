@@ -129,6 +129,7 @@
  .team img {
    max-width: 100%;
    height: 40vh;
+   margin: 2rem;
  }
  /* Product Page  */
  /* TABLE OF CONTENTS  (TOC) */
@@ -391,5 +392,15 @@
      align-content: center;
      justify-content: center;
      align-items: center;
+   }
+   .team {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: stretch;
+   }
+   .team img{
+    margin: 2rem;
+    height: 40vh;
    }
  }
