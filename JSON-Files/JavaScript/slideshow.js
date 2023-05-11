@@ -1,4 +1,4 @@
-let i = 0;
+let i = 0; 
 var pictures = [];
 var time = 2000;
 pictures[0] ="/images/pro.webp" //juice
@@ -8,11 +8,11 @@ pictures[3] ="/images/beats.webp" //accessories
 
 function autoplay(){
     document.slide.src = pictures[i];
-    if(i < pictures.length - 1){
+    if(i < pictures.length - 1){        
         i++;
     }else{
         i = 0; //Starts over
     }
     setTimeout("autoplay()", time);
 }
-window.onload=autoplay;
+window.onload=autoplay; //The window.onload event is set to trigger the autoplay function when the page finishes loading.

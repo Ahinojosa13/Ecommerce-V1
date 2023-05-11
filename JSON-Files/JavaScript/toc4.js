@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
               <h2>${juiceCard.name}</h2> 
               <p>${juiceCard.description}</p> 
               <span>${juiceCard.price}</span> 
-              <button>${juiceCard.buttonText}</button> <
+              <button>${juiceCard.buttonText}</button> 
             </div>
           `;
         });
