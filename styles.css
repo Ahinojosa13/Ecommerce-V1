@@ -301,13 +301,26 @@
      flex-flow: column;
    }
    .product-card {
-     font-size: 150%;
-     width: 90%;
+    font-size: 150%;
+    width: 90%;
+    padding: 2rem;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
    }
-   .product-card img {
-     padding-left: 4rem;
+   /* .product-card img {
      width: auto;
    }
+   .product-card p {
+    padding-bottom: 6rem;
+   }
+   .product-card span button{
+    padding-top: 2rem;
+   } */
  }
  /* IPad Air */
  @media (min-width: 768px) {
