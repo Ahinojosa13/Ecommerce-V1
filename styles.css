@@ -435,7 +435,17 @@
     flex-flow: column;
     flex-direction: row;
  } 
- .product-card{
- max-height: 716px ;
+ .product-card {
+      font-size: 150%;
+      width: 30rem;
+      padding: 5rem;
+      height: 100%;
+      aspect-ratio: 5/8;
+      display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
   }
 }
